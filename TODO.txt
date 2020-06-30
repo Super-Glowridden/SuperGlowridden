@@ -1,2 +1,0 @@
-Bold = Urgent
-Normal = ...normal
